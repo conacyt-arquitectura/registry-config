@@ -5,8 +5,8 @@ logging:
     io.github.jhipster: INFO
     
 configserver:
-  name: Docker JHipster Registry 03
-  status: Connected to the JHipster Registry running in Docker 03
+  name: Docker JHipster Registry 02
+  status: Connected to the JHipster Registry running in Docker 01
 
 jhipster:
   security: 
@@ -17,4 +17,4 @@ jhipster:
 eureka:
   client:
     service-url:
-      defaultZone: http://admin:admin@172.26.13.3:8761/eureka/
+      defaultZone: http://admin:admin@172.26.13.2:18761/eureka/
