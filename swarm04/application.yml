@@ -17,4 +17,4 @@ jhipster:
 eureka:
   client:
     service-url:
-      defaultZone: http://admin:admin@172.26.13.5:8761/eureka/
+      defaultZone: http://admin:admin@172.26.13.2:18764/eureka/
