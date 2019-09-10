@@ -1,7 +1,7 @@
 # Common configuration shared between all applications
 configserver:
-  name: Docker JHipster Registry 01
-  status: Connected to the JHipster Registry running in Docker 01
+  name: Docker JHipster Registry
+  status: Connected to the JHipster Registry running in Docker
 
 jhipster:
   security: 
