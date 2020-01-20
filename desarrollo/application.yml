@@ -1,0 +1,15 @@
+# Common configuration shared between all applications
+configserver:
+  name: Desarrollo JHipster Registry
+  status: Connected to the JHipster Registry running in Desarrollo
+
+jhipster:
+  security: 
+    authentication:
+      jwt:
+        secret: U3ByaW5nIENsb3VkIENvbmZpZ3VyYXRpb24=
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:admin123@172.26.13.59:8761/eureka/
